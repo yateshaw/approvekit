@@ -28,5 +28,8 @@
     }
   },
   "homepage": "https://approvekit.dev",
-  "repository": "https://github.com/yateshaw/approvekit"
+  "repository": "https://github.com/yateshaw/approvekit",
+  "icon": "./.claude-plugin/icon.svg",
+  "privacyPolicyUrl": "https://approvekit.dev/privacy",
+  "termsOfServiceUrl": "https://approvekit.dev/terms"
 }
