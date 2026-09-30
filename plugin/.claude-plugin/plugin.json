@@ -1,0 +1,32 @@
+{
+  "name": "approvekit",
+  "displayName": "ApproveKit",
+  "version": "0.1.0",
+  "description": "Get AI-built apps through App Store review, Google Play review and Google OAuth verification: free audit, then generated privacy policy, account deletion page, reviewer notes and OAuth package.",
+  "author": {
+    "name": "WyeTech LLC",
+    "email": "support@approvekit.dev",
+    "url": "https://approvekit.dev"
+  },
+  "license": "MIT",
+  "keywords": [
+    "app-store",
+    "google-play",
+    "oauth-verification",
+    "privacy-policy",
+    "app-review",
+    "expo",
+    "react-native"
+  ],
+  "skills": [
+    "./skills/"
+  ],
+  "mcpServers": {
+    "approvekit": {
+      "type": "http",
+      "url": "${APPROVEKIT_MCP_URL:-https://approvekit.dev/mcp}"
+    }
+  },
+  "homepage": "https://approvekit.dev",
+  "repository": "https://github.com/yateshaw/approvekit"
+}

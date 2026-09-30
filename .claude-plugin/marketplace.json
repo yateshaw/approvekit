@@ -1,0 +1,17 @@
+{
+  "name": "approvekit",
+  "owner": {
+    "name": "WyeTech LLC",
+    "email": "support@approvekit.dev",
+    "url": "https://approvekit.dev"
+  },
+  "description": "ApproveKit: get AI-built apps approved by App Store, Google Play and Google OAuth review.",
+  "plugins": [
+    {
+      "name": "approvekit",
+      "source": "./plugin",
+      "description": "Free audit of an app against store and OAuth review rules, plus generated compliance documents.",
+      "version": "0.1.0"
+    }
+  ]
+}
