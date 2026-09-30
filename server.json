@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "dev.approvekit/approvekit",
+  "title": "ApproveKit",
+  "description": "Audit apps against App Store, Google Play and Google OAuth review rules; get the required docs.",
+  "version": "0.1.0",
+  "websiteUrl": "https://approvekit.dev",
+  "repository": {
+    "url": "https://github.com/yateshaw/approvekit",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://approvekit.dev/mcp"
+    }
+  ]
+}
